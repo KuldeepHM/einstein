@@ -1,1 +1,2 @@
 im started a git coomand creating the file and sending it to the git hub
+its failing to add git
